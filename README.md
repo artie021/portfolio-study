@@ -1,6 +1,6 @@
 # portfolio-study
 <p>Um portfólio destinado a uma fotógrafa</p>
-<h3>  v v v v</h3>
+<h2>  v v v v</h2>
 https://portfolio-study-pro.netlify.app
 <h2>  ^ ^ ^ ^</h2>
 
