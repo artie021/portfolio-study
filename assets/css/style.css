@@ -3,7 +3,7 @@
 :root{
     --header-heigth: 3rem;
     --font-medium: 500; 
-}
+} 
 
 :root{
     --first-color:#368ABF;
@@ -328,6 +328,7 @@ img{
 
 .contact__container{
     row-gap: 2rem;
+    
 }
 .contact__subtitle{
     font-size: var(--normal-font-size);
